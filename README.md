@@ -111,7 +111,7 @@ Once downloaded, save it in the home directory and then unzip it using the follo
 unzip karaf-0.18.1.zip
 ```
 
-Finally to run the installed ODL go to the unzipped folder and enter the follwoing command, 
+Finally to run the installed ODL go to the unzipped folder and enter the following command, 
 ```
 ./bin/karaf
 ```
