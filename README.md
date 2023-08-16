@@ -14,7 +14,9 @@ sudo apt-get install mininet
 
 To check the installed Mininet Version:
 
-```mn --version```
+```
+mn --version
+```
 
 Mininet supports multiple switches and OpenFlow controllers. For this test, we will use Open vSwitch in bridge/standalone mode
 
