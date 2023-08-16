@@ -122,3 +122,5 @@ Once you are done, Press ```Ctrl + D``` to exit.
 ## Author 
 
 - **Anshul Madurwar** 
+- **Anmol Shetty**
+- **Maurya Patel**
